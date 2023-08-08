@@ -16,6 +16,7 @@
     </li>
     <li>Place the trained model file (<code>logistic_regression_model.pkl</code>) in the project directory.</li>
     <li>Make sure the <code>list.py</code> file containing the feature and disease lists is also present in the project directory.</li>
+    <li>Set the necessary environment variables. For example, if you are using a database, you may need to set the database URL and credentials as environment variables.</li>
   </ol>
   <h2>Using the Application</h2>
   <p>Once the project is set up and the dependencies are installed, you can run the Flask application using the following command:</p>
@@ -63,6 +64,6 @@
     <li>The <code>index()</code> function renders a simple HTML template located in the <code>templates</code> directory, allowing users to input symptoms through a web interface.</li>
   </ul>
   <h2>Contributing and Issue Reporting</h2>
-  <p>This project is currently not open for contributions. However, if you encounter any issues or have suggestions, please feel free to report them to the project maintainers.</p>
+  <p>This project is currently not open for contributions. However, if you encounter any issues or have suggestions, please feel free to report them to the project maintainers. You can contact the project maintainers at [email protected]</p>
 </body>
 </html>
